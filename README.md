@@ -1,8 +1,17 @@
-# todo_app
+# appointy-todo
+Appointy Todo App
 
-A new Flutter application.
+Requirement to run app:
+Visual Studio Code/ Android Studio.
+Gradle 4.4
+Android Studio gradle plug in 3.1.3
 
-## Getting Started
+I built using Android Studio.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+How to run app:
+
+Download repo.
+Install plugins and SDK for Flutter and Dart.
+Open Android Studio and select "Open existing android Studio project"
+It will ask to config Android Architechure click config.
+Now run app with green button in top.
