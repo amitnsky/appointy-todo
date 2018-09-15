@@ -15,3 +15,6 @@ Install plugins and SDK for Flutter and Dart.
 Open Android Studio and select "Open existing android Studio project"
 It will ask to config Android Architechure click config.
 Now run app with green button in top.
+
+Note:
+To mark todo's as done or undone swipe them.
